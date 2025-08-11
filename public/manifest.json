@@ -1,0 +1,13 @@
+{
+  "short_name": "Embodied Kiddos",
+  "name": "Website for Embodied Kiddos & Kristen Scher",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
